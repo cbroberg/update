@@ -1,7 +1,7 @@
 <?php 
 
 	echo `git pull`;
-	echo exec('./update.sh');
+	// echo exec('./update.sh');
 	// echo exec('whoami');
 	// echo "<pre>".`ls -alh`;
 	// echo "<h2>PHP is Fun!</h2>";
