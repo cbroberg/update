@@ -1,4 +1,4 @@
-<?php `sudo git pull`;?>
+<?php `git pull`;?>
 
 <?php
 	echo "<h2>PHP is Fun!</h2>";
