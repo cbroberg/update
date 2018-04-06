@@ -1,6 +1,6 @@
 <?php 
 
-	echo `git pull`;
+	`git pull`;
 	// echo exec('./update.sh');
 	// echo exec('whoami');
 	// echo "<pre>".`ls -alh`;
