@@ -1,8 +1,5 @@
 # update
 Deployment testing
 
-And it works ... or not :) But it might ... or?
+And it works ... 
 
-New changes
-And more changes :)
-And even more changes
